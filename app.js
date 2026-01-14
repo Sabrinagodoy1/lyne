@@ -22,9 +22,9 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
   }
 
 function tanks() {
-alert("He He He, Eu sei que você sempre quis dar o brioquinho :), Gu eu gosto muito de você, você sempre vai ser a melhor pessoa que eu já conheci, beijocas, espero que eu consiga melhorar nem que seja um tiquinho seu dia")
+alert("He He He, amor eu te amo muito :), agradeço demais de ter alguem tão especial na minha vida, tudo passa, mas passa com a gente um do ladinho da outra !!!")
 }  
 
 function not() {
-alert("Você nem ta maluco de não aceitar, volte lá e clique no sim! :/")
+alert("Você nem ta maluca de não aceitar, volte lá e clique no sim! :/")
 }  
